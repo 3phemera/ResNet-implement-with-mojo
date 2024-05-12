@@ -28,3 +28,5 @@
     #[ ] Calculate outputHeight und Width, 
     #[ ] Initializing Output Tensor with zeros
     #[ ] Implement Convolution Operation
+
+    
